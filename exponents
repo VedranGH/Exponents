@@ -1,0 +1,16 @@
+int main()
+
+{
+	
+
+	int ET = 11, HighestNumber = 100000;
+
+	for (int n = 2; n < ET; n++)
+
+	{	cout << endl;
+
+		for (int i = 1; i < HighestNumber; i *=  n)
+			cout << i <<' ';
+		}
+	
+}
