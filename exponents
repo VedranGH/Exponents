@@ -3,7 +3,7 @@ int main()
 {
 	
 
-	int ET = 11, HighestNumber = 100000;
+	int ET = 11, HighestNumber = 214748364;
 
 	for (int n = 2; n < ET; n++)
 
